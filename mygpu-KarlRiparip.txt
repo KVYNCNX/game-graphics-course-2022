@@ -1,0 +1,31 @@
+Home Assignment: Find out what GPU models are inside of all your devices. 
+
+1. Mobile phone
+
+2. Laptop 
+
+
+Figure out for each GPU you find: 
+
+
+1. Is it integrated or dedicated?
+
+
+> My Mobile Phone's GPU model is ARM Mali-G57 MC2 (950MHz). It is integrated.      
+
+
+> My Laptop's GPU is Intel(R) UHD Graphics 630. It is integrated. 
+
+
+2. What kinds of graphics APIs it supports?
+
+
+> My Mobile Phone: The graphic APIs it (ARM Mali-G57 MC2) supports are OpenGL ES 3.2, Vulkan 1.1, OpenCL 2.0 and Renderscript. 
+
+
+> My Laptop: The supported APIs for Intel Graphics are OpenGL*, DirectX*, OpenCL*, Vulkan*. 
+
+
+3. What kinds of shading languages it supports?
+
+> Laptop: It supports HLSL (High-Level Shader Language) used with the OpenGL standard.  
